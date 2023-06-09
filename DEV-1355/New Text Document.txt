@@ -1,0 +1,20 @@
+
+        // var xdist = coin.x - appMc.emptyBag.x;
+
+        // if (xdist < -coin.width / 2 && xdist < coin.width / 2) {
+        //     var ydist = coin.y - appMc.emptyBag.y;
+        //     if ((ydist < -coin.height / 2 && ydist < coin.height / 2) || (xdist < -coin.width / 2 && xdist < coin.width / 2)) {
+                
+        //         if ((coin.texture == moduleTexture.pixiTextures["gld _coin_fall"]) || (coin.texture == moduleTexture.pixiTextures["gld_coin_fall_slt"])) {
+        //             appMc.emptyBag.texture = moduleTexture.pixiTextures["gold_glowing_bag"];
+        //             coin.visible = false
+        //             console.log("Hit")
+        //         }
+        //         if ((coin.texture == moduleTexture.pixiTextures["grn _coin_fall"]) || (coin.texture == moduleTexture.pixiTextures["grn_coin_fall_slt"])) {
+        //             appMc.emptyBag.texture = moduleTexture.pixiTextures["green_glowing_bag"];
+        //             coin.visible = false
+        //             console.log("Hit")
+        //         }
+
+        //     }
+        // }

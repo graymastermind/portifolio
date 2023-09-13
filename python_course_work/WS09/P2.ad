@@ -1,0 +1,11 @@
+input savingsValue
+input houseValue
+input stockValue
+input jewelleryValue
+son gets houseValue
+son adds stockValue
+daughter gets savingsValue
+daughter adds jewelleryValue
+print son
+print daughter
+quit

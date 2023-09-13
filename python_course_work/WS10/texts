@@ -1,0 +1,11 @@
+• A good name for a class that represents a Go Card account could be `GoCardAccount`.
+• The services that should be provided by the `GoCardAccount` class are:
+  - A constructor (`__init__`) that initializes the account with an initial balance.
+  - A method for recording the amount of each ride, which accepts the amount as a parameter.
+  - A method for recording the amount of each top-up, which accepts the amount as a parameter.
+  - A method for reporting the current balance at any time.
+  - A method for printing a statement of all transactions.
+• To enable these services, the `GoCardAccount` class needs to store the following data:
+  - The current balance, which can be stored in a variable.
+  - The amount of each transaction, in order. To store multiple values in the order they are added, a good data type to use is a list.
+

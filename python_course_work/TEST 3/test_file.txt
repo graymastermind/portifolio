@@ -1,0 +1,32 @@
+1811ICT/2807ICT/7001ICT Programming Principles Workshop 7
+School of Information and Communication Technology
+Griffith University
+
+Goals This workshop focusses on everything in the course up to files.
+When Workshops from Friday 6 May to Thursday 12 May
+Marks 3
+Due Pre-workshop questions before the start of the above mentioned workshops
+Workshop programming problems by 11:59pm on 15 May
+
+1 Before your workshop class:
+Read all of this document.
+Review the lecture notes sections 1 to 20.
+Complete the pre-workshop questions (1 mark) posted on the course website and submit the answers for marking.
+
+2 Workshop activities
+At any stage, when you are stuck, ask your tutor!
+
+2.1 Problem 1 
+Problem: Write a program that prompts for the names of a source file to read and a target file to write, and copy the content of the source file to the target file, but with all empty lines removed, then output the number of empty lines removed.
+Source file name: string_doc.txt
+Target file name: string_doc_nonempty.txt
+Lines removed: 16
+
+Answer: Copy your code in the space given below and insert screenshots of your program output for the following two scenarios:
+Use the attached file P1_v1.txt as the source file to read. Use P1_v1_nonempty.txt as the target file name.
+Use the attached file P1_v2.txt as the source file to read. Use P1_v2_nonempty.txt as the target file name.
+
+scenarios:
+Use the attached file P4_v1.txt as the source file to read.
+Use the attached file P4_v2.txt as the source file to read.
+

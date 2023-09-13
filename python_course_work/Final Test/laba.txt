@@ -1,0 +1,9 @@
+Hello! Here are some phone numbers:
+12345
+This line does not contain a phone number.
+67890
+Not a valid number: 123
+9876543210
+No phone number in this line.
+99999 88888 77777
+End of the file.
